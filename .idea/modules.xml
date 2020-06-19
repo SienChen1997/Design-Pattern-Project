@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/litemall-master.iml" filepath="$PROJECT_DIR$/.idea/litemall-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litemall-admin-api/mall-admin-api.iml" filepath="$PROJECT_DIR$/litemall-admin-api/mall-admin-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-all/mall-all.iml" filepath="$PROJECT_DIR$/mall-all/mall-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-all-war/mall-all-war.iml" filepath="$PROJECT_DIR$/mall-all-war/mall-all-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litemall-core/mall-core.iml" filepath="$PROJECT_DIR$/litemall-core/mall-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/litemall-db/mall-db.iml" filepath="$PROJECT_DIR$/litemall-db/mall-db.iml" />
+    </modules>
+  </component>
+</project>

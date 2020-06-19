@@ -1,0 +1,12 @@
+2020-06-18 21:37:00,182 INFO [restartedMain] Application [StartupInfoLogger.java : 50] Starting Application on DESKTOP-ODH25H0 with PID 2604 (C:\Users\Husky\Desktop\project\mall-master\mall-all\target\classes started by Husky in C:\Users\Husky\Desktop\project\mall-master)
+2020-06-18 21:37:00,188 DEBUG [restartedMain] Application [StartupInfoLogger.java : 53] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-06-18 21:37:00,189 INFO [restartedMain] Application [SpringApplication.java : 679] The following profiles are active: db,core,admin,wx
+2020-06-18 21:37:11,880 INFO [scheduling-1] o.l.mall.admin.job.CouponJob [CouponJob.java : 36] 系统开启任务检查优惠券是否已经过期
+2020-06-18 21:37:11,923 INFO [scheduling-1] o.l.mall.admin.job.CouponJob [CouponJob.java : 50] 系统结束任务检查优惠券是否已经过期
+2020-06-18 21:37:12,861 INFO [restartedMain] Application [StartupInfoLogger.java : 59] Started Application in 14.014 seconds (JVM running for 15.435)
+2020-06-18 21:51:19,867 INFO [restartedMain] org.tiei.mall.Application [StartupInfoLogger.java : 50] Starting Application on DESKTOP-ODH25H0 with PID 7928 (C:\Users\Husky\Desktop\project\mall-master\mall-all\target\classes started by Husky in C:\Users\Husky\Desktop\project\mall-master)
+2020-06-18 21:51:19,875 DEBUG [restartedMain] org.tiei.mall.Application [StartupInfoLogger.java : 53] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-06-18 21:51:19,875 INFO [restartedMain] org.tiei.mall.Application [SpringApplication.java : 679] The following profiles are active: db,core,admin,wx
+2020-06-18 21:51:32,097 INFO [scheduling-1] o.l.mall.admin.job.CouponJob [CouponJob.java : 36] 系统开启任务检查优惠券是否已经过期
+2020-06-18 21:51:32,167 INFO [scheduling-1] o.l.mall.admin.job.CouponJob [CouponJob.java : 50] 系统结束任务检查优惠券是否已经过期
+2020-06-18 21:51:33,160 INFO [restartedMain] org.tiei.mall.Application [StartupInfoLogger.java : 59] Started Application in 14.718 seconds (JVM running for 16.164)
